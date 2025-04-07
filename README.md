@@ -1,8 +1,8 @@
-# DDoS Shield - Elysia.js DDoS Protection Middleware
+# DDoS Protection - Elysia.js DDoS Protection Middleware
 
 A powerful and flexible DDoS protection middleware built for Elysia.js applications to defend your web services against both user-specific and distributed denial-of-service attacks.
 
-![DDoS Shield](https://raw.githubusercontent.com/ErenayFC/DDoS-Protection/main/assets/shield-logo.png)
+![DDoS Protection](https://raw.githubusercontent.com/ErenayFC/DDoS-Protection/main/assets/shield-logo.png)
 
 ## Features
 
@@ -43,8 +43,8 @@ bun --version
 
 ```bash
 # Clone the repository
-git clone https://github.com/username/ddos-shield.git
-cd ddos-shield
+git clone https://github.com/ErenayFC/DDoS-Protection.git
+cd DDoS-Protection
 
 # Install dependencies
 bun install
@@ -63,7 +63,7 @@ The server will start at http://localhost:3000.
 ## Project Structure
 
 ```
-ddos-shield/
+DDoS-Protection/
 ├── src/
 │   ├── index.ts              # Main application entry point
 │   ├── config.ts             # Configuration settings
@@ -222,4 +222,4 @@ Contributions welcome! Please feel free to submit a Pull Request.
 
 ---
 
-Created with ❤️ by [Your Name](https://github.com/username)
+Created with ❤️ by [ErenayFC](https://erenaydev.com.tr)
