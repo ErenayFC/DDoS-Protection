@@ -25,16 +25,19 @@ This project requires [Bun](https://bun.sh/) as the JavaScript runtime. Bun is a
 If you don't have Bun installed, you can install it with:
 
 **macOS, Linux, or WSL:**
+
 ```bash
 curl -fsSL https://bun.sh/install | bash
 ```
 
 **Windows (using PowerShell):**
+
 ```powershell
 powershell -c "irm bun.sh/install.ps1 | iex"
 ```
 
 **Verify installation:**
+
 ```bash
 bun --version
 ```
@@ -58,11 +61,11 @@ Run the development server:
 bun run dev
 ```
 
-The server will start at http://localhost:3000.
+The server will start at <http://localhost:3000>.
 
 ## Project Structure
 
-```
+```txt
 DDoS-Protection/
 ├── src/
 │   ├── index.ts              # Main application entry point
