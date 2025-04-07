@@ -2,7 +2,7 @@
 
 A powerful and flexible DDoS protection middleware built for Elysia.js applications to defend your web services against both user-specific and distributed denial-of-service attacks.
 
-![DDoS Protection](https://raw.githubusercontent.com/ErenayFC/DDoS-Protection/main/assets/shield-logo.png)
+![DDoS Protection](https://raw.githubusercontent.com/ErenayFC/DDoS-Protection/main/assets/ddos-protection.png)
 
 ## Features
 
