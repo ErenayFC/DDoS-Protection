@@ -190,12 +190,6 @@ For production deployment, you may want to:
 2. Consider using a more robust storage system like Redis instead of JSON files (would require modifications)
 3. Use a proper process manager like PM2 or deploy with Docker
 
-To build for production:
-
-```bash
-bun run build
-```
-
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=ErenayFC/DDoS-Protection&type=Date)](https://www.star-history.com/#ErenayFC/DDoS-Protection&Date)
